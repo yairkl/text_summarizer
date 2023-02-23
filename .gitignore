@@ -1,0 +1,5 @@
+#ignore streamlit directory
+.streamlit/
+
+#ignore virtual environment
+env/
